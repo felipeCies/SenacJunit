@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7467d826-f5e8-4cd7-8dc0-12cf8433718e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/senac/PositivoNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/senac/PositivoNegativoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/PositivoNegativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/PositivoNegativo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -51,7 +53,7 @@
       <recent name="com.senac.par_impar" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ParImparTest">
+  <component name="RunManager" selected="JUnit.PositivoNegativoTest">
     <configuration name="ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.senac.par_impar.ParImpar" />
       <module name="SenacJunit" />
@@ -111,8 +113,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PositivoNegativoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SenacJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senac" />
+      <option name="MAIN_CLASS_NAME" value="com.senac.PositivoNegativoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PositivoNegativoTest" />
         <item itemvalue="JUnit.ParImparTest" />
         <item itemvalue="JUnit.CalculadoraTest" />
         <item itemvalue="Application.ParImpar" />
@@ -143,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687824882743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit de ajustes de testes">
+      <created>1687825217635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687825217635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
